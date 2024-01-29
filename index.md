@@ -9,4 +9,9 @@ Code:
 console.log ("Hello, World)
 let myName = Prompt("What is your name")
 ```
-# <h6> Activity completed! :) 
+- [ ] Github basics
+- [ ] Commiting changes
+- [ ] Markdown
+- [ ] Merging a pull request
+
+# <h6> Activities completed! :) 
