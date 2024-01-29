@@ -4,4 +4,9 @@
 # <h4> Below this heading
 ![PNG Sample](https://www.pngall.com/wp-content/uploads/8/Sample-PNG-Image.png)
 # <h5> Can you see the image above?
-# <h6> Activity completed! :)
+Code:
+```
+console.log ("Hello, World)
+let myName = Prompt("What is your name")
+```
+# <h6> Activity completed! :) 
