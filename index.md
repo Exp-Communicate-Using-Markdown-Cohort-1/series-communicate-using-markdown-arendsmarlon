@@ -1,6 +1,7 @@
-# <h1> H1 Header
-# <h2> H2 Header
-# <h3> H3 Header
-# <h4> H4 Header
-# <h5> H5 Header
-# <h6> H6 Header
+# <h1> Activity: Addding and image
+# <h2> Using the same index.md file
+# <h3> Adding a image of my choice
+# <h4> Below this heading
+![PNG Sample](https://www.pngall.com/wp-content/uploads/8/Sample-PNG-Image.png)
+# <h5> Can you see the image above?
+# <h6> Activity completed! :)
